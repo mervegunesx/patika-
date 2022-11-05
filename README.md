@@ -1,4 +1,6 @@
 Proje 1
+Patika - Veri Yapıları ve Algoritmalar Derslerinin Alıştırma Projeleri Kapsamında Yapılmıştır. Insertion Sort Projesi'dir. [www.patika.dev]
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -21,3 +23,5 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 [2,3,4,8,7,9,5,15,6]
 [2,3,4,5,7,9,8,15,6]
 [2,3,4,5,6,9,8,15,7]
+
+
